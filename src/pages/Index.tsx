@@ -18,7 +18,7 @@ const chainProducts = [
     links: 110,
     strength: '2800 кг',
     price: '850 ₽',
-    image: 'https://cdn.poehali.dev/projects/4e9b2621-89f3-4ca2-97ea-ee541976c37d/files/95f69720-dd60-4d08-8965-d70fcd345795.jpg'
+    image: 'https://cdn.poehali.dev/files/2825a84f-7293-4cad-9c1f-c152d6f04442.jpg'
   },
   {
     id: 2,
@@ -27,7 +27,7 @@ const chainProducts = [
     links: 114,
     strength: '3200 кг',
     price: '920 ₽',
-    image: 'https://cdn.poehali.dev/projects/4e9b2621-89f3-4ca2-97ea-ee541976c37d/files/95f69720-dd60-4d08-8965-d70fcd345795.jpg'
+    image: 'https://cdn.poehali.dev/files/630f4970-2752-4f9c-b63e-16f39005a749.jpg'
   },
   {
     id: 3,
@@ -36,7 +36,7 @@ const chainProducts = [
     links: 120,
     strength: '4100 кг',
     price: '1450 ₽',
-    image: 'https://cdn.poehali.dev/projects/4e9b2621-89f3-4ca2-97ea-ee541976c37d/files/95f69720-dd60-4d08-8965-d70fcd345795.jpg'
+    image: 'https://cdn.poehali.dev/files/da02cf60-ba95-4a28-9c5b-6a5ecc4215a8.jpg'
   },
   {
     id: 4,
@@ -45,7 +45,7 @@ const chainProducts = [
     links: 120,
     strength: '8900 кг',
     price: '2100 ₽',
-    image: 'https://cdn.poehali.dev/projects/4e9b2621-89f3-4ca2-97ea-ee541976c37d/files/95f69720-dd60-4d08-8965-d70fcd345795.jpg'
+    image: 'https://cdn.poehali.dev/files/dcdce30b-3408-4efd-865e-f8bc66fe5f53.jpg'
   },
   {
     id: 5,
@@ -54,7 +54,7 @@ const chainProducts = [
     links: 120,
     strength: '9500 кг',
     price: '2350 ₽',
-    image: 'https://cdn.poehali.dev/projects/4e9b2621-89f3-4ca2-97ea-ee541976c37d/files/95f69720-dd60-4d08-8965-d70fcd345795.jpg'
+    image: 'https://cdn.poehali.dev/files/57bba7f1-93bf-427b-ba7b-9832980c4c53.jpg'
   },
   {
     id: 6,
@@ -63,7 +63,7 @@ const chainProducts = [
     links: 120,
     strength: '10200 кг',
     price: '2650 ₽',
-    image: 'https://cdn.poehali.dev/projects/4e9b2621-89f3-4ca2-97ea-ee541976c37d/files/95f69720-dd60-4d08-8965-d70fcd345795.jpg'
+    image: 'https://cdn.poehali.dev/files/2825a84f-7293-4cad-9c1f-c152d6f04442.jpg'
   },
   {
     id: 7,
@@ -72,7 +72,7 @@ const chainProducts = [
     links: 110,
     strength: '8500 кг',
     price: '1950 ₽',
-    image: 'https://cdn.poehali.dev/projects/4e9b2621-89f3-4ca2-97ea-ee541976c37d/files/95f69720-dd60-4d08-8965-d70fcd345795.jpg'
+    image: 'https://cdn.poehali.dev/files/630f4970-2752-4f9c-b63e-16f39005a749.jpg'
   },
   {
     id: 8,
@@ -81,7 +81,7 @@ const chainProducts = [
     links: 130,
     strength: '3800 кг',
     price: '1080 ₽',
-    image: 'https://cdn.poehali.dev/projects/4e9b2621-89f3-4ca2-97ea-ee541976c37d/files/95f69720-dd60-4d08-8965-d70fcd345795.jpg'
+    image: 'https://cdn.poehali.dev/files/dcdce30b-3408-4efd-865e-f8bc66fe5f53.jpg'
   }
 ];
 
@@ -187,7 +187,7 @@ const Index = () => {
             </div>
             <div className="animate-fade-in">
               <img 
-                src="https://cdn.poehali.dev/projects/4e9b2621-89f3-4ca2-97ea-ee541976c37d/files/069dbcc7-6b35-4af3-b679-24b789b01a58.jpg" 
+                src="https://cdn.poehali.dev/files/57bba7f1-93bf-427b-ba7b-9832980c4c53.jpg" 
                 alt="Мотоцепи DIDVF" 
                 className="rounded-lg shadow-2xl"
               />
@@ -359,7 +359,7 @@ const Index = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <img 
-                src="https://cdn.poehali.dev/projects/4e9b2621-89f3-4ca2-97ea-ee541976c37d/files/dce1b7f4-1aff-48ed-9af4-893c40410800.jpg" 
+                src="https://cdn.poehali.dev/files/da02cf60-ba95-4a28-9c5b-6a5ecc4215a8.jpg" 
                 alt="Производство DIDVF" 
                 className="rounded-lg shadow-xl"
               />
