@@ -333,13 +333,6 @@ const Index = () => {
                       <span className="font-medium text-foreground">{product.strength}</span>
                     </div>
                   </div>
-                  <Separator className="my-3" />
-                  <div className="flex items-center justify-between">
-                    <span className="text-2xl font-bold text-accent">{product.price}</span>
-                    <Button size="sm" className="bg-accent hover:bg-accent/90">
-                      <Icon name="ShoppingCart" size={16} />
-                    </Button>
-                  </div>
                 </CardContent>
               </Card>
             ))}
