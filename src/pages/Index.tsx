@@ -18,7 +18,7 @@ const chainProducts = [
     links: 110,
     strength: '2800 кг',
     price: '850 ₽',
-    image: 'https://cdn.poehali.dev/files/2825a84f-7293-4cad-9c1f-c152d6f04442.jpg'
+    image: 'https://cdn.poehali.dev/files/0e17b8ff-7951-4977-ba6a-41ebb90a92ea.png'
   },
   {
     id: 2,
