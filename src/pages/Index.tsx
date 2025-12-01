@@ -328,10 +328,6 @@ const Index = () => {
                       <span>Звенья:</span>
                       <span className="font-medium text-foreground">{product.links}</span>
                     </div>
-                    <div className="flex justify-between">
-                      <span>Прочность:</span>
-                      <span className="font-medium text-foreground">{product.strength}</span>
-                    </div>
                   </div>
                 </CardContent>
               </Card>
